@@ -25,7 +25,7 @@
         "display4Size": "0.6",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       },
       "additionalSetColors": [
         "#444444",
@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 41,
+    "uniqCompNum": 38,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "siteUrl": "",
