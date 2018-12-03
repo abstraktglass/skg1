@@ -4178,7 +4178,7 @@ body {
 .cid-rb9hLM99Bo {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/gallery04-1200x750.jpg");
+  background: linear-gradient(45deg, #232323, #232323);
 }
 .cid-rb9hLM99Bo .mbr-section-subtitle {
   font-style: italic;
@@ -4190,9 +4190,9 @@ body {
   color: #f7ed4a;
 }
 .cid-rb9iXTdw8n {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/gallery04-1200x750.jpg");
+  background: linear-gradient(45deg, #232323, #232323);
 }
 .cid-rb9iXTdw8n .mbr-section-subtitle {
   font-style: italic;
@@ -4204,9 +4204,9 @@ body {
   color: #f7ed4a;
 }
 .cid-rb9ngLHQSa {
-  padding-top: 45px;
+  padding-top: 0px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/gallery04-1200x750.jpg");
+  background-color: #232323;
 }
 .cid-rb9ngLHQSa .testimonials-container {
   margin: 0 auto;
@@ -4258,7 +4258,7 @@ body {
 .cid-rb9lNE4Pni {
   padding-top: 0px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/gallery04-1200x750.jpg");
+  background: linear-gradient(45deg, #232323, #232323);
 }
 .cid-rb9lNE4Pni .mbr-section-subtitle {
   font-style: italic;
@@ -4274,9 +4274,9 @@ body {
   text-align: left;
 }
 .cid-rb9lPpsgq6 {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/gallery04-1200x750.jpg");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #232323;
 }
 @media (max-width: 767px) {
   .cid-rb9lPpsgq6 .content {
@@ -4361,19 +4361,27 @@ body {
 .cid-rb9lPpsgq6 P {
   text-align: left;
 }
-.cid-rb9lZ4mNHU {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/gallery04-1200x750.jpg");
+.cid-rb9v3cnkVe {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #232323, #232323);
 }
-.cid-rb9lZ4mNHU .mbr-iconfont-social {
+.cid-rb9v3cnkVe .mbr-iconfont-social {
   font-size: 32px;
   color: #efefef;
 }
-.cid-rb9lZ4mNHU .social-list a:focus {
+.cid-rb9v3cnkVe .social-list a:focus {
   text-decoration: none;
 }
-.cid-rb9lZ4mNHU H2 {
+.cid-rb9v3cnkVe H2 {
   color: #f7ed4a;
   text-align: center;
+}
+.cid-rb9v1MdMNW {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-rb9v1MdMNW .media-container-row .mbr-text {
+  color: #ffffff;
 }
